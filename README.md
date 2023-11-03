@@ -23,7 +23,7 @@
 
 Графически работу алгоритма можно представить в виде такой блок схемы:
 
-![Алгоритм метода ElementsCount()](https://github.com/AItemerbek/GeekBrains_FirstBlock_Final/blob/main/ElementsCount.jpg?raw=true)
+![Алгоритм метода ElementsCount()]()
 
 Код метода ElementsCount():
 
